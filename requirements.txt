@@ -1,5 +1,6 @@
 streamlit
 pandas
 requests
-similarity.pkl
-
+sklearn
+ast
+pickle
